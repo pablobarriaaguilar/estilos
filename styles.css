@@ -1,0 +1,15 @@
+.nav{
+    background-color: black;
+    color: white;
+}
+.projects{
+    background-color: purple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+.contact {
+    background-color:  lightblue;
+    text-align: right;
+}
